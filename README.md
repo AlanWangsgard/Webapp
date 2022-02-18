@@ -23,7 +23,6 @@ Mongoose
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Medium.com](https://medium.com/swlh/read-html-form-data-using-get-and-post-method-in-node-js-8d2c7880adbf)
 * [NodeJS](https://nodejs.dev/learn)
 
